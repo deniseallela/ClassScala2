@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Table</title>
+	<style type="text/css">
+		table{
+			border: 5px solid black;
+			background-color: #6F2828;
+			margin:100px;
+
+		}
+		img {
+    float: right;
+    border: 1px dotted black;
+    margin: 0px 0px 15px 20px;
+}
+#lali{
+	margin-right: 20%;
+	margin-left: 20%;
+	background-color: #7E5353;
+	border: double;
+	}
+	li{
+		display: inline;
+	}
+	#vic{
+		background-color: #D36B6B;
+		margin-right: 10px;
+		margin-left: 10px;
+		font-size: 40px;
+		height: 100%;
+	}
+	a:hover{
+		background-color: green;
+	}
+	body{
+		background-color: #370303;
+		background-position: right top;
+		padding: 30px;
+	}
+	.testing{
+		overflow:scroll;
+		float: left;
+		margin-right: 20%;
+		margin-left: 20%;
+		width: 250px;
+		height: 200px;
+	}
+	.container{
+		padding:30px;
+	}
+	#footer{
+		background-color:#0C0A0A;
+		color: #ffffff;
+		text-align: center;
+			}
+
+	</style>
+
+
+
+<!-- Start WOWSlider.com HEAD section -->
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" media="screen" />
+	<style type="text/css">a#vlb{display:none}</style>
+	<script type="text/javascript" src="engine1/jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+
+</head>
+<body>
+	<div class="container">
+	<marquee><h1>Our second Table</h1></marquee>
+	<div id="vic">
+		<ul>
+			<li><a href="home.html">Home</a></li>
+			<li><a href="abs.html">AboutUs</a></li>
+			<li><a href="dbo.html">Blog</a></li>
+		</ul>
+	</div>
+	
+
+<!-- Start WOWSlider.com BODY section id=wowslider-container1 -->
+	<div id="wowslider-container1">
+	<div class="ws_images">
+<a href="#"><img src="data1/images/picsart_052408.11.05.jpg" alt="PicsArt_05-24-08.11.05" title="PicsArt_05-24-08.11.05" id="wows0"/></a>
+<a href="#"><img src="data1/images/picsart_052408.20.43.jpg" alt="PicsArt_05-24-08.20.43" title="PicsArt_05-24-08.20.43" id="wows1"/></a>
+<a href="#"><img src="data1/images/picsart_052412.35.07.jpg" alt="PicsArt_05-24-12.35.07" title="PicsArt_05-24-12.35.07" id="wows2"/></a>
+<a href="#"><img src="data1/images/picsart_052412.35.12.jpg" alt="PicsArt_05-24-12.35.12" title="PicsArt_05-24-12.35.12" id="wows3"/></a>
+<a href="#"><img src="data1/images/picsart_052708.29.07.jpg" alt="PicsArt_05-27-08.29.07" title="PicsArt_05-27-08.29.07" id="wows4"/></a>
+<a href="#"><img src="data1/images/picsart_052708.34.49.jpg" alt="PicsArt_05-27-08.34.49" title="PicsArt_05-27-08.34.49" id="wows5"/></a>
+<a href="#"><img src="data1/images/picsart_052708.39.40.jpg" alt="PicsArt_05-27-08.39.40" title="PicsArt_05-27-08.39.40" id="wows6"/></a>
+<a href="#"><img src="data1/images/picsart_052708.51.19.jpg" alt="PicsArt_05-27-08.51.19" title="PicsArt_05-27-08.51.19" id="wows7"/></a>
+<a href="#"><img src="data1/images/picsart_052809.55.09.jpg" alt="PicsArt_05-28-09.55.09" title="PicsArt_05-28-09.55.09" id="wows8"/></a>
+<a href="#"><img src="data1/images/picsart_052809.57.21.jpg" alt="PicsArt_05-28-09.57.21" title="PicsArt_05-28-09.57.21" id="wows9"/></a>
+<a href="#"><img src="data1/images/picsart_053102.43.21.jpg" alt="PicsArt_05-31-02.43.21" title="PicsArt_05-31-02.43.21" id="wows10"/></a>
+<a href="#"><img src="data1/images/picsart_053102.53.58.jpg" alt="PicsArt_05-31-02.53.58" title="PicsArt_05-31-02.53.58" id="wows11"/></a>
+<a href="#"><img src="data1/images/picsart_053102.58.02.jpg" alt="PicsArt_05-31-02.58.02" title="PicsArt_05-31-02.58.02" id="wows12"/></a>
+<a href="#"><img src="data1/images/picsart_053103.00.37.jpg" alt="PicsArt_05-31-03.00.37" title="PicsArt_05-31-03.00.37" id="wows13"/></a>
+<a href="#"><img src="data1/images/picsart_060110.09.20.jpg" alt="PicsArt_06-01-10.09.20" title="PicsArt_06-01-10.09.20" id="wows14"/></a>
+<a href="#"><img src="data1/images/picsart_060110.10.42.jpg" alt="PicsArt_06-01-10.10.42" title="PicsArt_06-01-10.10.42" id="wows15"/></a>
+<a href="#"><img src="data1/images/picsart_060208.48.59.jpg" alt="PicsArt_06-02-08.48.59" title="PicsArt_06-02-08.48.59" id="wows16"/></a>
+<a href="#"><img src="data1/images/picsart_061601.51.29.jpg" alt="PicsArt_06-16-01.51.29" title="PicsArt_06-16-01.51.29" id="wows17"/></a>
+<a href="#"><img src="data1/images/picsart_061602.09.44.jpg" alt="PicsArt_06-16-02.09.44" title="PicsArt_06-16-02.09.44" id="wows18"/></a>
+<a href="#"><img src="data1/images/picsart_061602.13.35.jpg" alt="PicsArt_06-16-02.13.35" title="PicsArt_06-16-02.13.35" id="wows19"/></a>
+<a href="#"><img src="data1/images/picsart_061608.13.06.jpg" alt="PicsArt_06-16-08.13.06" title="PicsArt_06-16-08.13.06" id="wows20"/></a>
+<a href="#"><img src="data1/images/picsart_072208.17.30.jpg" alt="PicsArt_07-22-08.17.30" title="PicsArt_07-22-08.17.30" id="wows21"/></a>
+<a href="#"><img src="data1/images/picsart_080804.31.32.jpg" alt="PicsArt_08-08-04.31.32" title="PicsArt_08-08-04.31.32" id="wows22"/></a>
+<a href="#"><img src="data1/images/picsart_080804.31.47.jpg" alt="PicsArt_08-08-04.31.47" title="PicsArt_08-08-04.31.47" id="wows23"/></a>
+<a href="#"><img src="data1/images/picsart_081007.49.30.jpg" alt="PicsArt_08-10-07.49.30" title="PicsArt_08-10-07.49.30" id="wows24"/></a>
+<a href="#"><img src="data1/images/picsart_081007.49.40.jpg" alt="PicsArt_08-10-07.49.40" title="PicsArt_08-10-07.49.40" id="wows25"/></a>
+</div>
+<div class="ws_bullets"><div>
+<a href="#wows0" title="PicsArt_05-24-08.11.05"><img src="data1/tooltips/picsart_052408.11.05.jpg" alt="PicsArt_05-24-08.11.05"/>1</a>
+<a href="#wows1" title="PicsArt_05-24-08.20.43"><img src="data1/tooltips/picsart_052408.20.43.jpg" alt="PicsArt_05-24-08.20.43"/>2</a>
+<a href="#wows2" title="PicsArt_05-24-12.35.07"><img src="data1/tooltips/picsart_052412.35.07.jpg" alt="PicsArt_05-24-12.35.07"/>3</a>
+<a href="#wows3" title="PicsArt_05-24-12.35.12"><img src="data1/tooltips/picsart_052412.35.12.jpg" alt="PicsArt_05-24-12.35.12"/>4</a>
+<a href="#wows4" title="PicsArt_05-27-08.29.07"><img src="data1/tooltips/picsart_052708.29.07.jpg" alt="PicsArt_05-27-08.29.07"/>5</a>
+<a href="#wows5" title="PicsArt_05-27-08.34.49"><img src="data1/tooltips/picsart_052708.34.49.jpg" alt="PicsArt_05-27-08.34.49"/>6</a>
+<a href="#wows6" title="PicsArt_05-27-08.39.40"><img src="data1/tooltips/picsart_052708.39.40.jpg" alt="PicsArt_05-27-08.39.40"/>7</a>
+<a href="#wows7" title="PicsArt_05-27-08.51.19"><img src="data1/tooltips/picsart_052708.51.19.jpg" alt="PicsArt_05-27-08.51.19"/>8</a>
+<a href="#wows8" title="PicsArt_05-28-09.55.09"><img src="data1/tooltips/picsart_052809.55.09.jpg" alt="PicsArt_05-28-09.55.09"/>9</a>
+<a href="#wows9" title="PicsArt_05-28-09.57.21"><img src="data1/tooltips/picsart_052809.57.21.jpg" alt="PicsArt_05-28-09.57.21"/>10</a>
+<a href="#wows10" title="PicsArt_05-31-02.43.21"><img src="data1/tooltips/picsart_053102.43.21.jpg" alt="PicsArt_05-31-02.43.21"/>11</a>
+<a href="#wows11" title="PicsArt_05-31-02.53.58"><img src="data1/tooltips/picsart_053102.53.58.jpg" alt="PicsArt_05-31-02.53.58"/>12</a>
+<a href="#wows12" title="PicsArt_05-31-02.58.02"><img src="data1/tooltips/picsart_053102.58.02.jpg" alt="PicsArt_05-31-02.58.02"/>13</a>
+<a href="#wows13" title="PicsArt_05-31-03.00.37"><img src="data1/tooltips/picsart_053103.00.37.jpg" alt="PicsArt_05-31-03.00.37"/>14</a>
+<a href="#wows14" title="PicsArt_06-01-10.09.20"><img src="data1/tooltips/picsart_060110.09.20.jpg" alt="PicsArt_06-01-10.09.20"/>15</a>
+<a href="#wows15" title="PicsArt_06-01-10.10.42"><img src="data1/tooltips/picsart_060110.10.42.jpg" alt="PicsArt_06-01-10.10.42"/>16</a>
+<a href="#wows16" title="PicsArt_06-02-08.48.59"><img src="data1/tooltips/picsart_060208.48.59.jpg" alt="PicsArt_06-02-08.48.59"/>17</a>
+<a href="#wows17" title="PicsArt_06-16-01.51.29"><img src="data1/tooltips/picsart_061601.51.29.jpg" alt="PicsArt_06-16-01.51.29"/>18</a>
+<a href="#wows18" title="PicsArt_06-16-02.09.44"><img src="data1/tooltips/picsart_061602.09.44.jpg" alt="PicsArt_06-16-02.09.44"/>19</a>
+<a href="#wows19" title="PicsArt_06-16-02.13.35"><img src="data1/tooltips/picsart_061602.13.35.jpg" alt="PicsArt_06-16-02.13.35"/>20</a>
+<a href="#wows20" title="PicsArt_06-16-08.13.06"><img src="data1/tooltips/picsart_061608.13.06.jpg" alt="PicsArt_06-16-08.13.06"/>21</a>
+<a href="#wows21" title="PicsArt_07-22-08.17.30"><img src="data1/tooltips/picsart_072208.17.30.jpg" alt="PicsArt_07-22-08.17.30"/>22</a>
+<a href="#wows22" title="PicsArt_08-08-04.31.32"><img src="data1/tooltips/picsart_080804.31.32.jpg" alt="PicsArt_08-08-04.31.32"/>23</a>
+<a href="#wows23" title="PicsArt_08-08-04.31.47"><img src="data1/tooltips/picsart_080804.31.47.jpg" alt="PicsArt_08-08-04.31.47"/>24</a>
+<a href="#wows24" title="PicsArt_08-10-07.49.30"><img src="data1/tooltips/picsart_081007.49.30.jpg" alt="PicsArt_08-10-07.49.30"/>25</a>
+<a href="#wows25" title="PicsArt_08-10-07.49.40"><img src="data1/tooltips/picsart_081007.49.40.jpg" alt="PicsArt_08-10-07.49.40"/>26</a>
+</div></div>
+<a style="display:none" href="http://wowslider.com">Best jQuery Carousel by WOWSlider.com v1.7</a>
+	<div id="wowslider-shadow"></div>
+	</div>
+	<script type="text/javascript" src="engine1/script.js"></script>
+<!-- End WOWSlider.com BODY section -->
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+	<hr>
+<div id="lali">
+<p><img src="DSC_0017.JPG" width="100" height="140">
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</p></div><br>
+<br><br>
+<hr>
+	<table border="2px" width="70%" cellpadding="6" cellspacing="6">
+	<tr>
+		<th>Alella</th>
+		<th colspan="2">Allela</th>
+		
+
+	</tr>
+	<tr>
+		<td>Bran</td>
+		<td>Brian</td>
+		<td>Ezra</td>
+		
+		
+	</tr>
+	<tr>
+		<td>Paulette</td>
+		<td>Paula</td>
+		<td>Pauline</td>
+		
+		
+	</tr>
+	<tr>
+		<td>Victory</td>
+		<td>Victor</td>
+		<td>Victoria</td>
+		
+		
+	</tr>
+	<tr>
+		<td>Jane</td>
+		<td>Janes</td>
+		<td>Daniela</td>
+		
+		
+	</tr>
+	</table>
+	<div class="testing">
+		<h2>Testing</h2>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+	</div>
+	
+	</div>
+</body>
+</html>
